@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Main.class
+Class-Path: out/production/n09_shestakov_java_task1/com/valentin
+
